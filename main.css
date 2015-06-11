@@ -1,0 +1,79 @@
+* { font-family: "Droid Sans", sans-serif; text-align: center; top: 0; left: 0; }
+body { background: rgba(0,0,0,0.5); }
+a { color: #9DD9F8 }
+p { color: white; }
+
+img { height: auto; width: auto; max-width: 200px; max-height: 200px; }
+
+.button1 { height: 200px; width: 200px;  border: none; background-image: url(img/1.jpg); background-size: 100%}
+.button1.ani1 { background-position: 0 -200px; }
+.button1.ani2 { background-position: 0 -400px; }
+.button1.ani3 { background-position: 0 -600px; }
+.button1.ani4 { background-position: 0 0px; }
+
+.button2 { height: 200px; width: 200px;  border: none; background-image: url(img/2.jpg); background-size: 100%}
+.button2.ani1 { background-position: 0 -200px; }
+.button2.ani2 { background-position: 0 -400px; }
+.button2.ani3 { background-position: 0 -600px; }
+.button2.ani4 { background-position: 0 0px; }
+
+.button3 { height: 200px; width: 200px;  border: none; background-image: url(img/3.jpg); background-size: 100%}
+.button3.ani1 { background-position: 0 -200px; }
+.button3.ani2 { background-position: 0 -400px; }
+.button3.ani3 { background-position: 0 -600px; }
+.button3.ani4 { background-position: 0 -800px; }
+.button3.ani5 { background-position: 0 -1000px; }
+.button3.ani6 { background-position: 0 -1200px; }
+.button3.ani7 { background-position: 0 -1400px; }
+.button3.ani8 { background-position: 0 -1600px; }
+.button3.ani9 { background-position: 0 -1800px; }
+.button3.ani10 { background-position: 0 -2000px; }
+.button3.ani11 { background-position: 0 -2200px; }
+.button3.ani12 { background-position: 0 0px }
+
+.button4 { height: 200px; width: 200px;  border: none; background-image: url(img/4.jpg); background-size: 100%}
+.button4.ani1 { background-position: 0 -200px; }
+.button4.ani2 { background-position: 0 -400px; }
+.button4.ani3 { background-position: 0 -600px; }
+.button4.ani4 { background-position: 0 -800px; }
+.button4.ani5 { background-position: 0 -1000px; }
+.button4.ani6 { background-position: 0 -1200px; }
+.button4.ani8 { background-position: 0 0px; }
+
+.button5 { height: 200px; width: 200px;  border: none; background-image: url(img/5.jpg); background-size: 100%}
+.button5.ani1 { background-position: 0 -200px; }
+.button5.ani2 { background-position: 0 -400px; }
+.button5.ani3 { background-position: 0 -600px; }
+.button5.ani4 { background-position: 0 -800px; }
+.button5.ani5 { background-position: 0 -1000px; }
+.button5.ani6 { background-position: 0 -1200px; }
+.button5.ani8 { background-position: 0 0px; }
+
+.button6 { height: 200px; width: 200px;  border: none; background-image: url(img/6.jpg); background-size: 100%}
+.button6.ani1 { background-position: 0 -200px; }
+.button6.ani2 { background-position: 0 -400px; }
+.button6.ani3 { background-position: 0 -600px; }
+.button6.ani4 { background-position: 0 -800px; }
+.button6.ani5 { background-position: 0 0px; }
+
+.button7 { height: 200px; width: 200px;  border: none; background-image: url(img/7.jpg); background-size: 100%}
+.button7.ani1 { background-position: 0 -200px; }
+.button7.ani2 { background-position: 0 -400px; }
+.button7.ani3 { background-position: 0 -600px; }
+.button7.ani4 { background-position: 0 -800px; }
+.button7.ani5 { background-position: 0 -1000px; }
+.button7.ani6 { background-position: 0 -1200px; }
+.button7.ani8 { background-position: 0 0px; }
+
+.button8 { height: 200px; width: 200px;  border: none; background-image: url(img/8.jpg); background-size: 100%}
+.button8.ani1 { background-position: 0 -200px; }
+.button8.ani2 { background-position: 0 -400px; }
+.button8.ani3 { background-position: 0 -600px; }
+.button8.ani4 { background-position: 0 0px; }
+
+.button9 { height: 200px; width: 200px;  border: none; background-image: url(img/9.jpg); background-size: 100%}
+.button9.ani1 { background-position: 0 -200px; }
+.button9.ani2 { background-position: 0 -400px; }
+.button9.ani3 { background-position: 0 -600px; }
+.button9.ani4 { background-position: 0 -800px; }
+.button9.ani5 { background-position: 0 0px; }
